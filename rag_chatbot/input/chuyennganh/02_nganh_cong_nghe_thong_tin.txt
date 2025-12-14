@@ -1,0 +1,20 @@
+NGÀNH CÔNG NGHỆ THÔNG TIN (CNTT) – THÔNG TIN THAM KHẢO
+
+1) Học gì?
+- Lập trình cơ bản & hướng đối tượng; cấu trúc dữ liệu & giải thuật.
+- Cơ sở dữ liệu; hệ điều hành; mạng máy tính.
+- Phát triển Web/Backend; kiểm thử; DevOps cơ bản.
+- Một số hướng: AI/ML, Khoa học dữ liệu, An toàn thông tin, Mobile.
+
+2) Tố chất phù hợp
+- Tư duy logic, kiên trì, thích giải quyết vấn đề.
+- Tự học tốt, chịu được áp lực deadline.
+
+3) Cơ hội việc làm (tham khảo)
+- Web/Backend Developer, Mobile Developer, QA/QC, Data Engineer/Analyst, DevOps, Security.
+
+4) Một số câu hỏi tư vấn thường gặp
+- “Em nên chọn tổ hợp nào?” → phụ thuộc đề án tuyển sinh và năng lực từng môn.
+- “Học CNTT có cần giỏi Toán không?” → Toán hỗ trợ tư duy, nhưng quan trọng là luyện logic và thực hành đều.
+
+Ghi chú: Chưa bao gồm điểm chuẩn. Điểm chuẩn xem trong thư mục diem_chuan/.

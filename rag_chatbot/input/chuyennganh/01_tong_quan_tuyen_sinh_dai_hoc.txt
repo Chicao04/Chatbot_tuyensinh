@@ -1,0 +1,19 @@
+TỔNG QUAN TUYỂN SINH ĐẠI HỌC (MẪU NỘI BỘ)
+
+1) Các phương thức xét tuyển phổ biến
+- Xét điểm thi tốt nghiệp THPT.
+- Xét học bạ THPT (theo năm/lớp/môn, tùy trường).
+- Xét tuyển kết quả kỳ thi đánh giá năng lực/đánh giá tư duy (nếu trường áp dụng).
+- Xét tuyển thẳng/ưu tiên xét tuyển theo quy định.
+
+2) Thuật ngữ cần biết
+- Tổ hợp xét tuyển: nhóm môn dùng để xét (ví dụ A00, A01, D01...).
+- Ngưỡng đảm bảo chất lượng (điểm sàn): điều kiện tối thiểu để nhận hồ sơ.
+- Điểm chuẩn (điểm trúng tuyển): mức điểm để được trúng tuyển theo ngành/phương thức.
+
+3) Hồ sơ thường gặp
+- Phiếu đăng ký/xác nhận nhập học (theo trường).
+- Bản sao giấy tờ tùy thân, học bạ, bằng tốt nghiệp/tạm thời, giấy ưu tiên (nếu có).
+- Các minh chứng khác theo yêu cầu.
+
+Ghi chú: File này là ví dụ. Bạn thay bằng quy chế chính thức của trường/đề án tuyển sinh.

@@ -1,0 +1,12 @@
+PHÂN BIỆT ĐIỂM SÀN VÀ ĐIỂM CHUẨN
+
+- Điểm sàn (ngưỡng đảm bảo chất lượng):
+  Là mức điểm tối thiểu để trường nhận hồ sơ hoặc cho phép đăng ký xét tuyển theo một phương thức.
+  Điểm sàn không đồng nghĩa với trúng tuyển.
+
+- Điểm chuẩn (điểm trúng tuyển):
+  Là mức điểm cuối cùng của thí sinh được trúng tuyển vào ngành/chương trình theo từng phương thức.
+  Điểm chuẩn phụ thuộc số lượng chỉ tiêu và mức điểm của thí sinh đăng ký.
+
+Gợi ý khi hỏi chatbot:
+- Nếu bạn hỏi “ngành X lấy bao nhiêu điểm”, hãy nêu rõ năm và phương thức xét tuyển.

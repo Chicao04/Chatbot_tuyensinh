@@ -1,0 +1,16 @@
+TUYỂN SINH THẠC SĨ (MẪU)
+
+1) Điều kiện thường gặp (tham khảo)
+- Tốt nghiệp đại học đúng/ gần ngành (tùy chương trình).
+- Đạt yêu cầu ngoại ngữ (chứng chỉ hoặc thi đánh giá).
+- Một số chương trình yêu cầu kinh nghiệm làm việc.
+
+2) Hồ sơ (tham khảo)
+- Đơn đăng ký dự tuyển; sơ yếu lý lịch; bằng/ bảng điểm.
+- Minh chứng ngoại ngữ; giấy tờ ưu tiên (nếu có).
+- Lệ phí dự tuyển theo thông báo.
+
+3) Quy trình (tham khảo)
+- Nộp hồ sơ → sơ tuyển (nếu có) → thi/ xét tuyển → công bố kết quả → nhập học.
+
+Ghi chú: Bạn nên bổ sung file .txt theo từng trường/khoa để chatbot trả lời chính xác.
